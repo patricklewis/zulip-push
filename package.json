@@ -1,0 +1,27 @@
+{
+  "name": "zulip-push",
+  "version": "1.0.0",
+  "description": "Push notifications for Zulip",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricklewis/zulip-push.git"
+  },
+  "keywords": [
+    "zulip",
+    "push"
+  ],
+  "author": "Patrick Lewis <patrick@patricklewis.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patricklewis/zulip-push/issues"
+  },
+  "homepage": "https://github.com/patricklewis/zulip-push#readme"
+}
